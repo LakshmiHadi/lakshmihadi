@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lakshmi Hadi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fwp-content%2Fuploads%2F2022%2F09%2Fprogrammng-language.jpg&tbnid=EpaFXlm6sbJ-wM&vet=12ahUKEwiznpP6j5eEAxVVTGwGHfjmC44QMygMegUIARCPAQ..i&imgrefurl=https%3A%2F%2Fwww.springboard.com%2Fblog%2Fsoftware-engineering%2Fcoding-skills%2F&docid=ZC2zEKLfzha69M&w=1200&h=555&q=coding%20images&hl=en-GB&ved=2ahUKEwiznpP6j5eEAxVVTGwGHfjmC44QMygMegUIARCPAQ" alt="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmihadi&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmihadi" /> </p>
 
