@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshmihadi&show_icons=true&locale=en" alt="lakshmihadi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmihadi&" alt="lakshmihadi" /></p>
+
+<a href="https://github.com/LakshmiHadi"><img alt="LakshmiHadi" src="https://github-readme-activity-graph.vercel.app/graph?username=LakshmiHadi&bg_color=000000&color=ae9f37&line=578e62&point=137000&area=true&hide_border=true" /></a>
