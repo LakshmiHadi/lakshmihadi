@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmihadi&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmihadi" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshmihadi" alt="lakshmihadi" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/lakshmi_hadi" target="blank"><img src="https://img.shields.io/twitter/follow/lakshmi_hadi?logo=twitter&style=for-the-badge" alt="lakshmi_hadi" /></a> </p>
 
